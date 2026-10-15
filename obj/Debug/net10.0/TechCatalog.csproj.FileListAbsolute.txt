@@ -1,0 +1,4 @@
+C:\Users\enzob\OneDrive\Documentos\TechCatalog\obj\Debug\net10.0\TechCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzob\OneDrive\Documentos\TechCatalog\obj\Debug\net10.0\TechCatalog.AssemblyInfoInputs.cache
+C:\Users\enzob\OneDrive\Documentos\TechCatalog\obj\Debug\net10.0\TechCatalog.AssemblyInfo.cs
+C:\Users\enzob\OneDrive\Documentos\TechCatalog\obj\Debug\net10.0\TechCatalog.csproj.CoreCompileInputs.cache
